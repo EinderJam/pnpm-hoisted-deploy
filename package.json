@@ -1,0 +1,12 @@
+{
+  "name": "pnpm-hoisted-deploy",
+  "version": "1.0.0",
+  "description": "PoC to illustrate missing dpendencies when deploying a package with PNPM and node-linker set to hoisted",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
